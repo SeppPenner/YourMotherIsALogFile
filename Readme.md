@@ -1,0 +1,1 @@
+Check the log file under https://github.com/SeppPenner/YourMotherIsALogFile/blob/master/Logfile.md.
